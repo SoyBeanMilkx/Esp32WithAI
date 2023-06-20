@@ -1,2 +1,3 @@
 # Esp32WithAI
 用esp32执行ai传达的动作
+##用Android手机与Esp32通信，我向ESP32对话，Esp32检测到我说的内容并传递给Android手机，手机再向gpt的api请求，返回的数据再次传递回Esp32
